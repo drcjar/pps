@@ -1,0 +1,7 @@
+This is makeindex, version 2.15 [TeX Live 2015] (kpathsea + Thai support).
+Scanning style file ./pps-protocol.ist.............................done (29 attributes redefined, 0 ignored).
+Scanning input file pps-protocol.glo....done (3 entries accepted, 0 rejected).
+Sorting entries....done (5 comparisons).
+Generating output file pps-protocol.gls....done (12 lines written, 0 warnings).
+Output written in pps-protocol.gls.
+Transcript written in pps-protocol.glg.

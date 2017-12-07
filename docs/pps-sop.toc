@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Scope and applicability}{1}{section.1}
+\contentsline {section}{\numberline {2}Introduction}{2}{section.2}
+\contentsline {section}{\numberline {3}Recruitment}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Recruitment of cases}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Recruitment of controls}{2}{subsection.3.2}
+\contentsline {section}{\numberline {4}Exposure assessment}{4}{section.4}
+\contentsline {section}{\numberline {5}Introduction}{4}{section.5}
+\contentsline {section}{\numberline {6}Occupational history}{4}{section.6}
+\contentsline {section}{\numberline {7}Cohabitation history}{7}{section.7}
+\contentsline {section}{\numberline {8}Smoking history}{7}{section.8}
+\contentsline {section}{\numberline {9}mMRC dyspnoea questions}{7}{section.9}
+\contentsline {section}{\numberline {10}Drug and medical history}{8}{section.10}
+\contentsline {section}{\numberline {11}Family history}{8}{section.11}
+\contentsline {section}{\numberline {12}Asbestos exposure history}{8}{section.12}
+\contentsline {section}{\numberline {13}(for cases only) how were you diagnosed}{8}{section.13}
+\contentsline {section}{\numberline {14}Ethnicity}{8}{section.14}
+\contentsline {section}{\numberline {15}Thank-you and updates}{9}{section.15}
+\contentsline {section}{\numberline {16}Venepuncture, sample storage, transportation, and processing}{9}{section.16}
+\contentsline {section}{\numberline {17}Unique research IDs}{9}{section.17}
+\contentsline {section}{\numberline {18}Study documentation and logs}{9}{section.18}
+\contentsline {section}{\numberline {19}Tissue-tracking and communication}{10}{section.19}

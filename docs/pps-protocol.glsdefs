@@ -1,0 +1,90 @@
+\ifglsentryexists{Pleural plaque}{}%
+{%
+\gls@defglossaryentry{Pleural plaque}%
+{%
+name={Pleural plaque},%
+sort={Pleural plaque},%
+type={main},%
+first={Pleural plaque},%
+firstplural={Pleural plaques},%
+text={Pleural plaque},%
+plural={Pleural plaques},%
+description={Pleural plaques are discrete circumscribed areas of hyaline fibrosis of the parietal pleura and occasionally the visceral pleura. Asbestos exposure is one cause of pleural plaques},%
+descriptionplural={Pleural plaques are discrete circumscribed areas of hyaline fibrosis of the parietal pleura and occasionally the visceral pleura. Asbestos exposure is one cause of pleural plaques},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Asbestos}{}%
+{%
+\gls@defglossaryentry{Asbestos}%
+{%
+name={Asbestos},%
+sort={Asbestos},%
+type={main},%
+first={Asbestos},%
+firstplural={Asbestoss},%
+text={Asbestos},%
+plural={Asbestoss},%
+description={Asbestos is a mineral fibre with useful insulating properties. Asbestos use is now strictly controlled because of harmful health effects. Historically, construction materials and household goods have been made from asbestos, and widely used, in the United Kingdom},%
+descriptionplural={Asbestos is a mineral fibre with useful insulating properties. Asbestos use is now strictly controlled because of harmful health effects. Historically, construction materials and household goods have been made from asbestos, and widely used, in the United Kingdom},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ecological study}{}%
+{%
+\gls@defglossaryentry{Ecological study}%
+{%
+name={Ecological study},%
+sort={Ecological study},%
+type={main},%
+first={Ecological study},%
+firstplural={Ecological studys},%
+text={Ecological study},%
+plural={Ecological studys},%
+description={An ecological study is an observational study defined by the level at which data are analysed, namely at the population or group level, rather than individual level},%
+descriptionplural={An ecological study is an observational study defined by the level at which data are analysed, namely at the population or group level, rather than individual level},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

@@ -1,0 +1,44 @@
+\contentsline {section}{Glossary}{5}{section*.11}
+\contentsline {section}{Study Summary}{6}{section*.14}
+\contentsline {paragraph}{Title:}{6}{section*.15}
+\contentsline {paragraph}{Design:}{6}{section*.16}
+\contentsline {paragraph}{Aim:}{6}{section*.17}
+\contentsline {paragraph}{Outcome measures:}{6}{section*.18}
+\contentsline {paragraph}{Population:}{6}{section*.19}
+\contentsline {paragraph}{Eligibility:}{6}{section*.20}
+\contentsline {paragraph}{Duration:}{6}{section*.21}
+\contentsline {section}{\numberline {1}Introduction}{7}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{7}{subsection.1.1}
+\contentsline {section}{\numberline {2}Study objectives}{7}{section.2}
+\contentsline {section}{\numberline {3}Study design}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Study outcome measures}{7}{subsection.3.1}
+\contentsline {paragraph}{Primary outcome}{7}{section*.22}
+\contentsline {paragraph}{Secondary outcomes}{7}{section*.23}
+\contentsline {section}{\numberline {4}Participant entry}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Pre-registration evaluations}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Sampling}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Inclusion criteria}{7}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Exclusion criteria}{7}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Withdrawal criteria}{8}{subsection.4.5}
+\contentsline {section}{\numberline {5}Adverse events}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}Definitions}{8}{subsection.5.1}
+\contentsline {paragraph}{Adverse Event (AE):}{8}{section*.24}
+\contentsline {paragraph}{Serious Adverse Event (SAE):}{8}{section*.25}
+\contentsline {subsection}{\numberline {5.2}Reporting Procedures}{8}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Non serious AEs}{8}{subsubsection.5.2.1}
+\contentsline {section}{\numberline {6}Assessment and follow up}{9}{section.6}
+\contentsline {section}{\numberline {7}Statistics and data analysis}{9}{section.7}
+\contentsline {section}{\numberline {8}Regulatory issues}{9}{section.8}
+\contentsline {subsection}{\numberline {8.1}Ethics approval}{9}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Consent}{9}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Confidentiality}{9}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Indemnity}{9}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Sponsor}{10}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}Funding}{10}{subsection.8.6}
+\contentsline {subsection}{\numberline {8.7}Audits and inspections}{10}{subsection.8.7}
+\contentsline {section}{\numberline {9}Study management}{10}{section.9}
+\contentsline {section}{\numberline {10}Publication policy}{10}{section.10}
+\contentsline {section}{Appendices}{10}{section*.26}
+\contentsline {section}{Appendix \numberline {A}Research outputs}{10}{Appendix.1.A}
+\contentsline {section}{Appendix \numberline {B}Study flow chart and Gannt chart}{10}{Appendix.1.B}
+\contentsline {section}{Appendix \numberline {C}Study standard operating procedure}{10}{Appendix.1.C}

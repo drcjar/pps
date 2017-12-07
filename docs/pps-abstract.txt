@@ -1,0 +1,19 @@
+Study Summary
+
+Title: Pleural Plaque Study (PPS).
+
+Design: Ecological study.
+
+Aim: To characterize and measure changes in the distribution of pleural
+plaques in
+the population over time.
+
+Outcome measures: 1. Geospatial K-means clustering of pleural plaques by
+5 year
+epoch. 2. Correlation with pleural mesothelioma mortality data.
+
+Population: Patients with a CT scan that includes their pleura.
+
+Eligibility: Meets population definition, able to give informed consent.
+
+Duration: One year.
