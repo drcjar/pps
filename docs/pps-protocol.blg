@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: pps-protocol.aux
+The style file: unsrtnat.bst
+Database file #1: pps.bib
+You've used 6 entries,
+            2481 wiz_defined-function locations,
+            608 strings with 6214 characters,
+and the built_in function-call counts, 3178 in all, are:
+= -- 246
+> -- 258
+< -- 1
++ -- 92
+- -- 80
+* -- 316
+:= -- 562
+add.period$ -- 29
+call.type$ -- 6
+change.case$ -- 12
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 114
+empty$ -- 219
+format.name$ -- 88
+if$ -- 626
+int.to.chr$ -- 1
+int.to.str$ -- 7
+missing$ -- 6
+newline$ -- 49
+num.names$ -- 18
+pop$ -- 31
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 57
+stack$ -- 0
+substring$ -- 150
+swap$ -- 18
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 42
+warning$ -- 0
+while$ -- 24
+width$ -- 0
+write$ -- 107

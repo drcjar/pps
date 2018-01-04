@@ -1,0 +1,66 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hansell et~al.(2008)Hansell, Bankier, MacMahon, McLoud, Müller, and
+  Remy]{Hansell2008}
+David~M Hansell, Alexander~A Bankier, Heber MacMahon, Theresa~C McLoud,
+  Nestor~L Müller, and Jacques Remy.
+\newblock Fleischner society: glossary of terms for thoracic imaging.
+\newblock \emph{Radiology}, 246:\penalty0 697--722, March 2008.
+\newblock ISSN 1527-1315.
+\newblock \doi{10.1148/radiol.2462070712}.
+
+\bibitem[Hillerdal and Lindgren(1980)]{Hillerdal1980}
+G~Hillerdal and A~Lindgren.
+\newblock Pleural plaques: correlation of autopsy findings to radiographic
+  findings and occupational history.
+\newblock \emph{European journal of respiratory diseases}, 61:\penalty0
+  315--319, December 1980.
+\newblock ISSN 0106-4339.
+
+\bibitem[Paris et~al.(2009)Paris, Thierry, Brochard, Letourneux, Schorle,
+  Stoufflet, Ameille, Conso, Pairon, and Members]{Paris2009}
+C~Paris, S~Thierry, P~Brochard, M~Letourneux, E~Schorle, A~Stoufflet,
+  J~Ameille, F~Conso, J~C Pairon, and National~APEXS Members.
+\newblock Pleural plaques and asbestosis: dose- and time-response relationships
+  based on hrct data.
+\newblock \emph{The European respiratory journal}, 34:\penalty0 72--79, July
+  2009.
+\newblock ISSN 1399-3003.
+\newblock \doi{10.1183/09031936.00094008}.
+
+\bibitem[Mastrangelo et~al.(2009)Mastrangelo, Ballarin, Bellini, Bicciato,
+  Zannol, Gioffrè, Zedde, Tessadri, Fedeli, Valentini, Scoizzato, Marangi, and
+  Lange]{Mastrangelo2009}
+Giuseppe Mastrangelo, Maria~N Ballarin, Ernesto Bellini, Fabio Bicciato,
+  Federica Zannol, Francesco Gioffrè, Antonio Zedde, Gianna Tessadri, Ugo
+  Fedeli, Flavio Valentini, Luca Scoizzato, Gianluca Marangi, and John~H Lange.
+\newblock Asbestos exposure and benign asbestos diseases in 772 formerly
+  exposed workers: dose-response relationships.
+\newblock \emph{American journal of industrial medicine}, 52:\penalty0
+  596--602, August 2009.
+\newblock ISSN 1097-0274.
+\newblock \doi{10.1002/ajim.20713}.
+
+\bibitem[Larson et~al.(2012)Larson, Antao, Bove, and Cusack]{Larson2012}
+Theodore~C Larson, Vinicius~C Antao, Frank~J Bove, and Caroline Cusack.
+\newblock Association between cumulative fiber exposure and respiratory
+  outcomes among libby vermiculite workers.
+\newblock \emph{Journal of occupational and environmental medicine},
+  54:\penalty0 56--63, January 2012.
+\newblock ISSN 1536-5948.
+\newblock \doi{10.1097/JOM.0b013e31823c141c}.
+
+\bibitem[Peto et~al.(1999)Peto, Decarli, La~Vecchia, Levi, and Negri]{peto1999}
+J~Peto, A~Decarli, C~La~Vecchia, F~Levi, and E~Negri.
+\newblock The european mesothelioma epidemic.
+\newblock \emph{British journal of cancer}, 79:\penalty0 666--672, February
+  1999.
+\newblock ISSN 0007-0920.
+\newblock \doi{10.1038/sj.bjc.6690105}.
+
+\end{thebibliography}
