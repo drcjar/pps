@@ -1,0 +1,403 @@
+\documentclass[a4paper,10pt]{article}
+
+%set font to Arial
+%\usepackage{fontspec}
+%\setmainfont{Arial}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+%graphics
+\usepackage{graphicx}
+%\usepackage{subfigure}
+\usepackage{pslatex}
+\usepackage{pstricks}
+
+%math equations
+\usepackage{amsmath}
+
+%python code
+%\usepackage{minted}
+
+%display URLS
+\usepackage{url}
+
+%hyperlinks
+\usepackage{hyperref}
+
+%comments
+\usepackage{verbatim} 
+
+%nice tables
+\usepackage{booktabs}
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+
+%multi rows for the nice tables
+%\usepackage{multirow} 
+
+%nice diplay of code
+%\usepackage{minted}
+
+%nice references
+\usepackage[super]{natbib}
+
+%some maths
+\usepackage{amsmath}
+
+%ability to include pdf
+\usepackage{pdfpages}
+
+%captions
+\usepackage{caption}
+
+%margins
+%\usepackage{geometry}
+%\geometry{verbose,a4paper,tmargin=60mm,bmargin=25mm,lmargin=25mm,rmargin=25mm}
+
+%in line citations
+%\usepackage{bibentry}
+
+%\hyphenpenalty=10000
+
+%\nobibliography*
+
+%headers
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{IRAS Project ID: unknown}
+\chead{}
+\rhead{clinicaltrials.gov: unknown}
+\lfoot{PPS}
+\cfoot{PPS Study Protocol 0.1 \hspace{2cm} 11th October 2017}
+\rfoot{\thepage\ of \pageref{LastPage}} 
+
+%glossary
+\usepackage[toc]{glossaries}
+\makeglossary
+
+%appendix
+\usepackage[title,titletoc,toc]{appendix}
+%title
+\newpage
+\title{\bf PPS} 
+\date{}
+\vspace{3cm}
+%\pagenumbering{gobble}
+
+\begin{document}
+\pagestyle{fancy} 
+\maketitle
+
+\section*{Pleural Plaque Study}
+ \subsection*{An ecological study of pleural plaques in the UK}
+
+\vspace{3cm}
+
+\begin{centering}
+\subsection*{Version 0.1 \\ 4th January 2018}
+\end{centering}
+
+\begin{flushleft}
+
+\vspace{3cm}
+
+MAIN SPONSOR: Imperial College London \\
+FUNDERS: no external funding is required \\
+STUDY COORDINATION CENTRE: Imperial College London \\
+IRAS reference: unknown\\
+
+\vspace{3cm}
+
+\subsection*{Protocol authorised by:}
+
+    \begin{tabular}{l c r}
+        Name \& Role & Date & Signature \\
+        Carl Reynolds, Chief Investigator & 7th August, 2017 & \includegraphics[scale=0.5]{/home/drcjar/Documents/CV/CarlReynoldsSignature.png} \\
+
+    \end{tabular}
+
+
+
+\newpage
+
+\subsection*{Study management group}
+
+Chief Investigator: Carl Reynolds
+
+Co-investigators: Paul Cullinan
+
+Statistician: Carl Reynolds
+
+Study Management: Paul Cullinan, Carl Reynolds
+
+\subsection*{Study Coordination Centre}
+
+For general queries, supply of study documentation, and collection of data, please contact: \vspace{0.5cm}
+
+Dr Carl Reynolds 
+
+carl.reynolds@imperial.ac.uk 
+
+07737 904 807 
+
+National Heart and Lung Institute
+
+Room G39 Emmanual Kaye Building
+
+1b Mansrea Road, London, SW3 6LR 
+
+
+\subsection*{Clinical Queries}
+
+Clinical queries should be directed to Dr Carl Reynolds who will direct the query to the appropriate person.
+
+\subsection*{Sponsor}
+
+Imperial College London is the main research Sponsor for this study. For further information regarding the sponsorship conditions, please contact the Head of Regulatory Compliance at:\vspace{0.5cm}
+		
+Joint Research Compliance Office
+
+Imperial College London \& Imperial College Healthcare NHS Trust
+
+2nd Floor Medical School Building
+
+St Mary’s Hospital
+Praed Street
+London
+W2 1NY
+
+Tel: 020759 41862
+
+\subsection*{Funder}
+
+
+No external funding is required. \vspace{0.5cm}
+
+\end{flushleft}
+
+
+This protocol describes the Pleural Plaque Study (PPS) and provides information about procedures for entering participants. Every care was taken in its drafting, but corrections or amendments may be necessary. These will be circulated to investigators in the study. Problems relating to this study should be referred, in the first instance, to the Chief Investigator. This study will adhere to the principles outlined in the NHS Research Governance Framework for Health and Social Care (2nd edition). It will be conducted in compliance with the protocol, the Data Protection Act and other regulatory requirements as appropriate. 
+
+\newpage
+ 
+\tableofcontents
+
+\newpage
+
+\newglossaryentry{Pleural plaque}
+  {name=Pleural plaque,
+   description={Pleural plaques are discrete circumscribed areas of hyaline fibrosis of the parietal pleura and occasionally the visceral pleura. Asbestos exposure is the predominant cause of pleural plaques}}
+
+\newglossaryentry{Asbestos}
+  {name=Asbestos,
+   description={Asbestos is a mineral fibre with useful insulating properties. Asbestos use is now strictly controlled because of harmful health effects. Historically, construction materials and household goods have been made from asbestos, and widely used, in the United Kingdom}}
+
+ \newglossaryentry{Ecological study}
+  {name=Ecological study,
+  description={An ecological study is an observational study defined by the level at which data are analysed, namely at the population or group level, rather than individual level}}
+
+%need to do something to actually build the glossary... generally delete existing one and run make glossaries%
+
+\glsaddall
+
+\printglossary[nonumberlist]
+
+\section*{Key words}
+
+\textbf{Idiopathic pulmonary fibrosis, asbestos, epidemiological study}
+
+\newpage
+
+\section*{Study Summary}
+\addcontentsline{toc}{section}{Study Summary}
+
+\paragraph{Title:} Pleural Plaque Study (PPS).
+\paragraph{Design:} Ecological study.
+\paragraph{Aim:} To characterize and measure changes in the distribution of CT reported pleural plaques in the population over time.
+\paragraph{Outcome measures:} 1. Standardised incidence ratio for pleural plaque by postcode area and year of report. 2. Correlation with pleural mesothelioma mortality data. 3. Correlation with historic asbestos import data.
+\paragraph{Population:} Patients with a CT scan report documenting pleural plaque at participating centres.
+\paragraph{Eligibility:} Meets population definition.
+\paragraph{Duration:} One year.
+
+
+\newpage
+
+
+\section{Introduction}
+\subsection{Background}
+
+Pleural plaques are seen on chest radiograph or CT scan as well-demarcated areas of pleural thickening which may contain calcification. Viewed with a microscope pleural plaques are relatively acellular, have a hylanized appearance, and are composed of dense layers of collagen.\cite{Hansell2008}
+
+At a population level pleural plaques are important because they are sensitive and specific for asbestos exposure and identify a population at increased risk of asbestos related disease. \cite{Hillerdal1980, Paris2009} At an individual level pleural plaques are of variable significance; they are usually asymptomatic and the risk of asbestos related disease depends on latency period, duration of exposure, level of exposure and cumulative exposure. \cite{Mastrangelo2009, Larson2012}
+
+The advent of electronic radiology information systems (RIS) to store radiology reports makes epidemiological analysis of pleural plaques (as reported by a radiologist) feasible. 
+
+Epidemiological analysis of pleural plaques is desirable for several reasons:
+
+\begin{enumerate}
+    \item To enhance management of patients with pleural plaques
+    \item To provide additional information on the likely course of the European mesothelioma epidemic\cite{peto1999}  
+    \item To identify unwarranted variation is pleural plaque diagnosis  
+%under-reporting, unwarranted variation
+\end{enumerate}
+
+\section{Study objectives}
+
+My overall aim is to characterize and measure changes in the distribution of pleural plaques over time; additionally, I will investigate correlations with pleural mesothelioma mortality data and historic asbestos import data.
+
+My specific research questions are:
+
+\begin{enumerate}
+    \item What is the prevalence and incidence of CT scan reported pleural plaque in the UK by age, sex, geographic region, and year of report?
+    \item Does CT scan reported pleural plaque correlate with pleural mesothelioma mortality data?
+    \item Does CT scan reported pleural plaque correlate with historic asbestos import data?
+\end{enumerate}
+
+\section{Study design}
+\subsection{Study outcome measures}
+
+\paragraph{Primary outcome}
+Standardised incidence ratio for pleural plaque by postcode area and year of report. 
+
+
+\paragraph{Secondary outcomes}
+Correlation with pleural mesothelioma mortality data. Correlation with historic asbestos import data.
+
+
+\section{Participant entry}
+\subsection{Pre-registration evaluations}
+No pre-registration evaluations are necessary.
+
+\subsection{Sampling}
+All patients having a CT scan report that includes the term ``pleural plaque" or ``pleural plaques" at participating centres will be sampled. 
+
+\subsection{Inclusion criteria}
+Has a CT scan report that includes the term ``pleural plaque" or ``pleural plaques" at a participating centre.
+
+\subsection{Exclusion criteria}
+There are no exclusion criteria.
+
+\subsection{Withdrawal criteria} 
+There are no withdrawal criteria.
+
+\section{Adverse events}
+
+\subsection{Definitions}
+
+\paragraph{Adverse Event (AE):}any untoward medical occurrence in a patient or clinical study subject.  
+
+\paragraph{Serious Adverse Event (SAE):}any untoward and unexpected medical occurrence or effect that: \begin{itemize}
+	\item Is life-threatening – refers to an event in which the subject was at risk of death at the time of the event; it does not refer to an event which hypothetically might have caused death if it were more severe
+	\item Requires hospitalisation, or prolongation of existing inpatients’ hospitalisation
+    \item Results in persistent or significant disability or incapacity
+	\item Is a congenital anomaly or birth defect
+                                                                                              \end{itemize}
+
+Medical judgement should be exercised in deciding whether an AE is serious in other situations. Important AEs that are not immediately life-threatening or do not result in death or hospitalisation but may jeopardise the subject or may require intervention to prevent one of the other outcomes listed in the definition above, should also be considered serious.
+
+\subsection{Reporting Procedures}
+All adverse events should be reported. Depending on the nature of the event the reporting procedures below should be followed. Any questions concerning adverse event reporting should be directed to the Chief Investigator in the first instance.  
+
+\subsubsection{Non serious AEs}
+An SAE form should be completed and emailed to the Chief Investigator within 24 hours. 
+
+All SAEs should be reported to the Imperial College London where in the opinion of the Chief Investigator, the event was: \begin{itemize}
+                                                                                                                           \item ‘related’, ie resulted from the administration of any of the research procedures; and
+					   \item ‘unexpected’, ie an event that is not listed in the protocol as an expected occurrence
+                                                                                                                         \end{itemize}
+
+Reports of related and unexpected SAEs should be submitted within 15 days of the Chief Investigator becoming aware of the event, using the NRES SAE form for non-IMP studies. The Chief Investigator must also notify the Sponsor of all SAEs.
+
+Local investigators should report any SAEs as required by their Local Research Ethics Committee, Sponsor and/or Research \& Development Office.
+
+\begin{center}
+\textbf{Contact details for reporting SAEs:}
+ 
+Email: carl.reynolds@imperial.ac.uk
+
+Please send SAE forms to: 
+
+National Heart and Lung Institute
+
+Room G39 Emmanual Kaye Building
+
+1b Mansrea Road, London, SW3 6LR 
+
+Tel: 07737 904 807
+
+\end{center}
+
+
+\section{Assessment and follow up}
+Pseudo-anonymised information about participants (that they have a pleural plaque, the year of the report, their year of birth, and their postcode area will be held for until the analysis is complete. 
+
+\section{Statistics and data analysis}
+The prevalence and incidence of pleural plaques by age, sex, and geographic region will be calculated. Correlations with pleural mesothelioma and asbestos import data will be examined.
+
+\section{Regulatory issues}
+
+\subsection{Ethics approval}
+The Chief Investigator has obtained approval from the Research Ethics Committee via IRAS\@. The study must be submitted for Site Specific Assessment (SSA) at each participating NHS Trust. The Chief Investigator will require a copy of the Trust R\&D approval letter before accepting participants into the study. The study will be conducted in accordance with the recommendations for physicians involved in research on human subjects adopted by the 18th World Medical Assembly, Helsinki 1964 and later revisions.
+
+
+\subsection{Consent}
+We will apply to the consent advisory group (CAG) for permission to obtain and analyze pseudo-anonymised data extracts without patient consent.
+
+\subsection{Confidentiality}
+The Chief Investigator will preserve the confidentiality of participants taking part in the study and is registered under the Data Protection Act.
+
+\subsection{Indemnity}
+Imperial College London holds negligent harm and non-negligent harm insurance policies which apply to this study.
+
+\subsection{Sponsor}
+Imperial College London will act as the main Sponsor for this study. Delegated responsibilities will be assigned to the NHS trusts taking part in this study.  
+
+
+\subsection{Funding}
+No external funding is required.
+
+\subsection{Audits and inspections}
+The study may be subject to inspection and audit by Imperial College London under their remit as sponsor and other regulatory bodies to ensure adherence to GCP and the NHS Research Governance Framework for Health and Social Care (2nd edition). 
+
+\section{Study management}
+The day-to-day management of the study will be co-ordinated through Dr Carl Reynolds.
+
+\section{Publication policy}
+All research findings will be published in accordance with the Wellcome Trust and Imperial College London open access publication policies.
+
+
+\begin{appendices}
+
+\section{Research outputs}
+
+% \section{Supplementary figures and tables}
+
+\section{Study flow chart and Gannt chart}
+
+% \section{Study Information Sheet for Health Care Professionals}
+
+% \section{Participant Information Sheet}
+
+% \section{Participant consent form}
+
+\section{Study standard operating procedure}
+
+\newpage
+
+\end{appendices}
+     
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+ \def\@biblabel#1{#1}
+\makeatother
+%%%%%%%% gets rid of bracket around numbers in bibliography
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\bibliographystyle{unsrtnat}
+\bibliography{pps}
+
+\end{document}
+
+
+
+
